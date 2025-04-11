@@ -28,8 +28,8 @@ body {
   place-items: start;
   min-width: 320px;
   min-height: 100vh;
-  background-color: violet;
-  color: yellow;
+  background-color: rgb(159, 209, 22);
+  color: blue;
 }
 
 h1 {
